@@ -2,23 +2,24 @@
 
 ClauseWise is an AI-powered Contract Intelligence Platform designed to help individuals and small businesses understand legal contracts and identify potential risks before signing.
 
-# Many SMEs struggle with complex legal language, hidden penalty clauses, unlimited liabilities, and unfavorable jurisdiction terms. ClauseWise addresses this problem by allowing users to upload contracts (PDF or TXT) and automatically performing:
+Many SMEs struggle with complex legal language, hidden penalty clauses, unlimited liabilities, and unfavorable jurisdiction terms.
+# ClauseWise addresses this problem by allowing users to upload contracts (PDF or TXT) and automatically performing:
 
-Risk clause detection (penalty, liability, arbitration, jurisdiction, etc.)
+1. Risk clause detection (penalty, liability, arbitration, jurisdiction, etc.)
 
-Risk scoring (0–100) with Low / Medium / High classification
+2. Risk scoring (0–100) with Low / Medium / High classification
 
-Highlighting of risky terms directly in the contract text
+3. Highlighting of risky terms directly in the contract text
 
-Category-wise risk analysis (Legal, Financial, Operational)
+4. Category-wise risk analysis (Legal, Financial, Operational)
 
-Actionable recommendations to improve contract safety
+5. Actionable recommendations to improve contract safety
 
-Downloadable PDF risk reports
+6. Downloadable PDF risk reports
 
-Interactive dashboard with risk trends and distributions
+7. Interactive dashboard with risk trends and distributions
 
-Upload history management with search, delete, and CSV export
+8. Upload history management with search, delete, and CSV export
 
 The platform also provides a visual dashboard to track contract risk over time and maintains an audit trail of analyzed documents.
 
