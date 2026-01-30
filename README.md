@@ -47,4 +47,4 @@ History management
 
 5. PDF Handling: pdfplumber, FPDF
 
-This project showcases the practical application of AI-assisted document analysis, UI/UX design for SaaS-style dashboards, and full lifecycle document management — making legal risk assessment faster, simpler, and more accessible for SMEs.
+This project showcases the practical application of AI-assisted document analysis, UI/UX design for SaaS-style dashboards, and full lifecycle document management - making legal risk assessment faster, simpler, and more accessible for SMEs.
