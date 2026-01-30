@@ -1,0 +1,32 @@
+SERVICE AGREEMENT
+
+This Service Agreement is entered into between XYZ Consulting Services (“Service Provider”) and the Client.
+
+1. Scope of Services  
+The Service Provider shall deliver consulting services as outlined in Schedule A.
+
+2. Penalty Clause  
+A penalty of INR 50,000 shall apply for delays beyond agreed timelines.
+
+3. Liability  
+The Client accepts full and unlimited liability for damages arising from the use of services.
+
+4. Auto Renewal  
+This agreement shall automatically renew every twelve months unless terminated in writing.
+
+5. Indemnity  
+The Client shall indemnify the Service Provider against all third-party claims, losses, and legal expenses.
+
+6. Intellectual Property  
+All deliverables produced shall become property of the Service Provider.
+
+7. Jurisdiction  
+All disputes shall be governed under Delhi jurisdiction.
+
+8. Arbitration  
+Any dispute shall be resolved exclusively through mandatory arbitration.
+
+9. Termination  
+The Service Provider reserves the right to terminate this agreement without prior notice.
+
+Both parties agree to the above terms and conditions.
