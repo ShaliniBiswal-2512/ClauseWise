@@ -1,0 +1,50 @@
+VENDOR AGREEMENT
+
+This Vendor Agreement (“Agreement”) is entered into on [Date], by and between RetailCorp Pvt. Ltd., having its registered office at [Company Address] (“Company”), and [Vendor Name], having its principal place of business at [Vendor Address] (“Vendor”).
+
+Both parties agree as follows:
+
+1. Scope of Services  
+Vendor agrees to provide goods and/or services as mutually agreed in writing from time to time in accordance with Company standards.
+
+2. Term & Termination  
+This Agreement shall commence on the Effective Date and remain valid for one (1) year unless terminated earlier.  
+Either party may terminate this Agreement by providing thirty (30) days written notice.  
+The Company may terminate immediately in case of material breach or misconduct.
+
+3. Payment Terms  
+Company shall make payments within thirty (30) days of receipt of a valid invoice.  
+All prices shall be inclusive of applicable taxes unless stated otherwise.
+
+4. Penalties & Breach  
+In case of failure to meet agreed deliverables, Vendor may be subject to penalties up to INR 40,000 depending on the severity of the breach.
+
+5. Liability  
+Vendor shall be liable for direct damages caused due to negligence or breach, subject to a maximum of the total contract value.
+
+6. Indemnification  
+Vendor agrees to indemnify and hold harmless the Company from any third-party claims arising out of Vendor’s services, negligence, or violation of laws.
+
+7. Intellectual Property  
+All work products, documents, or materials created under this Agreement shall become the exclusive property of the Company unless otherwise agreed in writing.
+
+8. Confidentiality  
+Vendor shall keep all Company information confidential during and after the term of this Agreement.
+
+9. Compliance With Laws  
+Vendor agrees to comply with all applicable Indian laws, regulations, and tax requirements.
+
+10. Dispute Resolution  
+Any disputes shall first be resolved amicably. If unresolved, disputes shall be referred to arbitration in accordance with the Arbitration and Conciliation Act, 1996.
+
+11. Governing Law & Jurisdiction  
+This Agreement shall be governed by the laws of India. Courts at Mumbai shall have exclusive jurisdiction.
+
+IN WITNESS WHEREOF, both parties have executed this Agreement on the date first written above.
+
+For RetailCorp Pvt. Ltd.           For Vendor
+
+_____________________            _____________________  
+Authorized Signatory             Authorized Signatory  
+
+Date: _____________              Date: _____________
