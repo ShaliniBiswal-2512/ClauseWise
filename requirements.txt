@@ -1,0 +1,7 @@
+streamlit
+openai
+spacy
+pdfplumber
+python-docx
+fpdf
+samples
