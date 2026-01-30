@@ -1,7 +1,5 @@
-streamlit
-openai
-spacy
+streamlit>=1.30
 pdfplumber
-python-docx
-fpdf
-samples
+fpdf2==2.7.8
+pandas
+matplotlib
